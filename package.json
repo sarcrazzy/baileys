@@ -1,16 +1,16 @@
 {
-    "name": "kayzennotdev/bail",
+    "name": "sarcrazzy/baileys",
     "version": "1.7.3",
-    "description": "Have A Nice Day",
+    "description": "welcome to baileys sarcrazzy",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/kayzennotdev/bail",
+    "homepage": "https://github.com/sarcrazzy/baileys",
     "repository": {
-        "url": "https://github.com/kayzennotdev/bail"
+        "url": "https://github.com/sarcrazzy/baileys"
     },
     "license": "MIT",
-    "author": "kayzennotdev",
+    "author": "sarcrazzy",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://kayzennotdev/bail/issues"
+      "url": "https://sarcrazzy/baileys/issues"
     }
 }
